@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sukoon-e-Qalb · سکونِ قلب</title>
+  <meta name="description" content="Watch every Sukoon-e-Qalb lecture in one place, beginning with the weekly Riyaad Us Saliheen series.">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.png">
+  <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48.png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://i.ytimg.com">
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <img class="logo" src="assets/logo.jpg" width="108" height="108" alt="Sukoon-e-Qalb logo">
+      <p class="bismillah" lang="ar" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
+      <h1 class="channel-name">Sukoon-e-Qalb</h1>
+      <p class="channel-name-urdu" lang="ar" dir="rtl">سکونِ قلب</p>
+      <p class="channel-tagline">A calm place to watch every lecture. Start with this week’s Riyaad Us Saliheen lesson, then explore the other series below.</p>
+      <nav class="site-nav" aria-label="Page sections">
+        <a href="#riyad-us-saliheen">Riyaad Us Saliheen</a>
+        <a href="#positive-parenting">Positive Parenting</a>
+        <a href="#surah-al-kahf">Surah Al-Kahf</a>
+        <a href="#youm-e-arafah">Youm-e-Arafah</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+  <div class="ornament-line" aria-hidden="true"></div>
+
+  <div class="series-nav-wrap">
+    <nav class="series-nav wrap" id="series-nav" aria-label="Jump to a series"></nav>
+  </div>
+
+  <main>
+    <section class="wrap now-playing" aria-labelledby="now-playing-title">
+      <p class="section-kicker" id="player-kicker">Latest weekly lecture</p>
+      <h2 class="section-title" id="now-playing-title">Riyaad Us Saliheen</h2>
+
+      <article class="player-card">
+        <div class="player-frame" id="player-frame">
+          <img id="player-poster" alt="" width="1280" height="720">
+          <button type="button" class="play-button" id="play-button" aria-label="Play lecture">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+          </button>
+          <div id="player-embed" hidden></div>
+          <div class="player-overlay-label">
+            <p id="player-hint">Riyaad Us Saliheen · latest weekly lecture</p>
+            <span class="latest-badge" id="player-badge">Latest weekly lecture</span>
+          </div>
+        </div>
+        <div class="player-meta">
+          <p class="player-series" id="featured-series">Riyaad Us Saliheen</p>
+          <h2 id="featured-title">Loading lecture…</h2>
+          <p class="player-sub" id="featured-sub"></p>
+        </div>
+      </article>
+    </section>
+
+    <div class="wrap search-bar">
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+        <input type="search" id="episode-search" placeholder="Search lectures across all series…" aria-label="Search lectures across all series">
+      </div>
+    </div>
+
+    <div id="series-sections"></div>
+
+    <section class="wrap about" id="about" aria-labelledby="about-title">
+      <p class="section-kicker">About this channel</p>
+      <h2 class="section-title" id="about-title">Sukoon-e-Qalb · سکونِ قلب</h2>
+      <p>Sukoon-e-Qalb gathers Hadees explanations and related lectures so you can watch every episode in order, from one page. The main series is <strong>Riyaad Us Saliheen</strong> — a weekly live lecture, with the newest talk shown first in the player above.</p>
+      <ul>
+        <li><strong>Riyaad Us Saliheen</strong> — the ongoing weekly series, based on Imam an-Nawawi’s collection.</li>
+        <li><strong>Positive Parenting in Islam</strong> — guidance for raising children with love, mercy, and Islamic values.</li>
+        <li><strong>Surah Al-Kahf</strong> — a verse-by-verse explanation of the surah.</li>
+        <li><strong>Youm-e-Arafah</strong> — a lecture on the day of Arafah.</li>
+      </ul>
+      <p>Videos stay Unlisted on YouTube, so they do not appear in YouTube search. Anyone with this page can still watch them here. When a new weekly lecture is added, the site data can be refreshed from the playlist without changing the page layout.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p class="arabic" lang="ar" dir="rtl">وَاللَّهُ أَعْلَمُ</p>
+    <p>Sukoon-e-Qalb · سکونِ قلب</p>
+    <p>Lectures remain Unlisted on YouTube and are collected here for viewers of the series.</p>
+    <small>@SukoonCourse</small>
+  </footer>
+
+  <script src="videos.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

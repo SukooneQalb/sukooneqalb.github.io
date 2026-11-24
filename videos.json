@@ -1,0 +1,695 @@
+{
+  "channel": {
+    "name": "Sukoon-e-Qalb",
+    "nameUrdu": "سکونِ قلب",
+    "handle": "@SukoonCourse",
+    "url": "https://www.youtube.com/@SukoonCourse",
+    "channelId": "UCjQBMgejwW0rnrFFEBuur6g"
+  },
+  "updatedAt": "2026-11-24T09:18:07+05:00",
+  "series": [
+    {
+      "id": "riyad-us-saliheen",
+      "title": "Riyaad Us Saliheen",
+      "role": "main",
+      "playlistId": "PLieY2yLTSro9IjSUgWhVFUrcfzFkuZiUp",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLieY2yLTSro9IjSUgWhVFUrcfzFkuZiUp",
+      "description": "Welcome to this beautiful and inspiring playlist based on Riyad us Saliheen (Gardens of the Righteous), a timeless collection of authentic Hadees compiled by Imam An-Nawawi.\n\nThis series is designed to guide you through the teachings of Prophet Muhammad (PBUH), focusing on faith, character, patience, sincerity, and everyday actions that bring us closer to Allah.\n\n🤲 May Allah grant us the ability to act upon this knowledge and make us among the righteous.",
+      "videoCount": 44,
+      "videos": [
+        {
+          "id": "0iJJlgSwZos",
+          "title": "Hadees No.1 Riyad Us Saliheen",
+          "duration": 4053,
+          "durationLabel": "1:07:33",
+          "thumbnail": "https://i.ytimg.com/vi/0iJJlgSwZos/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0iJJlgSwZos",
+          "position": 1
+        },
+        {
+          "id": "QCT3VukwMH8",
+          "title": "Hadees 2 to 6 Riyad Us Saliheen",
+          "duration": 3305,
+          "durationLabel": "55:05",
+          "thumbnail": "https://i.ytimg.com/vi/QCT3VukwMH8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QCT3VukwMH8",
+          "position": 2
+        },
+        {
+          "id": "Bewt-j0Za6g",
+          "title": "Hadees 7 To 11 Riyad Us Saliheen",
+          "duration": 4228,
+          "durationLabel": "1:10:28",
+          "thumbnail": "https://i.ytimg.com/vi/Bewt-j0Za6g/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Bewt-j0Za6g",
+          "position": 3
+        },
+        {
+          "id": "tr7ImbDtTDw",
+          "title": "Hadees No. 12 Riyaad Us Saliheen",
+          "duration": 4385,
+          "durationLabel": "1:13:05",
+          "thumbnail": "https://i.ytimg.com/vi/tr7ImbDtTDw/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tr7ImbDtTDw",
+          "position": 4
+        },
+        {
+          "id": "pBLwz2mXjdc",
+          "title": "Hadees No.13 to 19 Riyaad Us Saliheen",
+          "duration": 4942,
+          "durationLabel": "1:22:22",
+          "thumbnail": "https://i.ytimg.com/vi/pBLwz2mXjdc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pBLwz2mXjdc",
+          "position": 5
+        },
+        {
+          "id": "hBZ2zUrsbP0",
+          "title": "Hadees 20 to 21 Riyad Us Saliheen",
+          "duration": 4780,
+          "durationLabel": "1:19:40",
+          "thumbnail": "https://i.ytimg.com/vi/hBZ2zUrsbP0/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=hBZ2zUrsbP0",
+          "position": 6
+        },
+        {
+          "id": "Tz6UoH36IlQ",
+          "title": "Hadees 21 to 24 Riyad Us Saliheen",
+          "duration": 4264,
+          "durationLabel": "1:11:04",
+          "thumbnail": "https://i.ytimg.com/vi/Tz6UoH36IlQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Tz6UoH36IlQ",
+          "position": 7
+        },
+        {
+          "id": "e56UtLKe3-Y",
+          "title": "Hadees 25 Riyad Us Saliheen",
+          "duration": 4339,
+          "durationLabel": "1:12:19",
+          "thumbnail": "https://i.ytimg.com/vi/e56UtLKe3-Y/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=e56UtLKe3-Y",
+          "position": 8
+        },
+        {
+          "id": "FsWFo14no7o",
+          "title": "Hadees 26 to 28 Riyad Us Saliheen",
+          "duration": 4441,
+          "durationLabel": "1:14:01",
+          "thumbnail": "https://i.ytimg.com/vi/FsWFo14no7o/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=FsWFo14no7o",
+          "position": 9
+        },
+        {
+          "id": "ZbGZU_GDwj8",
+          "title": "Hadees 29 to 31 Riyad Us Saliheen",
+          "duration": 4263,
+          "durationLabel": "1:11:03",
+          "thumbnail": "https://i.ytimg.com/vi/ZbGZU_GDwj8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZbGZU_GDwj8",
+          "position": 10
+        },
+        {
+          "id": "LJjkFBbTqho",
+          "title": "Hadees 32 to 38 Riyad Us Saliheen",
+          "duration": 4317,
+          "durationLabel": "1:11:57",
+          "thumbnail": "https://i.ytimg.com/vi/LJjkFBbTqho/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=LJjkFBbTqho",
+          "position": 11
+        },
+        {
+          "id": "0sVskCaYRVo",
+          "title": "Hadees 40 to 42 Riyad Us Saliheen",
+          "duration": 3930,
+          "durationLabel": "1:05:30",
+          "thumbnail": "https://i.ytimg.com/vi/0sVskCaYRVo/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0sVskCaYRVo",
+          "position": 12
+        },
+        {
+          "id": "pD_Ucv5BdQ4",
+          "title": "Hadees 43 to 47 Riyad Us Saliheen",
+          "duration": 4625,
+          "durationLabel": "1:17:05",
+          "thumbnail": "https://i.ytimg.com/vi/pD_Ucv5BdQ4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pD_Ucv5BdQ4",
+          "position": 13
+        },
+        {
+          "id": "uDIZpHY2Bfw",
+          "title": "Hadees 48 to 50 Riyad Us Saliheen",
+          "duration": 911,
+          "durationLabel": "15:11",
+          "thumbnail": "https://i.ytimg.com/vi/uDIZpHY2Bfw/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=uDIZpHY2Bfw",
+          "position": 14
+        },
+        {
+          "id": "Cg3uSBc9OFw",
+          "title": "Hadees 51 to 54 Riyad Us Saliheen",
+          "duration": 4898,
+          "durationLabel": "1:21:38",
+          "thumbnail": "https://i.ytimg.com/vi/Cg3uSBc9OFw/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Cg3uSBc9OFw",
+          "position": 15
+        },
+        {
+          "id": "usauRsCOlCA",
+          "title": "Hadees 55 to 59 Riyad Us Saliheen",
+          "duration": 4138,
+          "durationLabel": "1:08:58",
+          "thumbnail": "https://i.ytimg.com/vi/usauRsCOlCA/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=usauRsCOlCA",
+          "position": 16
+        },
+        {
+          "id": "3kVHD9n1bB8",
+          "title": "Hadees 60 Riyad Us Saliheen",
+          "duration": 4376,
+          "durationLabel": "1:12:56",
+          "thumbnail": "https://i.ytimg.com/vi/3kVHD9n1bB8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3kVHD9n1bB8",
+          "position": 17
+        },
+        {
+          "id": "3ODdtJuZ54g",
+          "title": "Hadees 60 to 62 Riyad Us Saliheen",
+          "duration": 4513,
+          "durationLabel": "1:15:13",
+          "thumbnail": "https://i.ytimg.com/vi/3ODdtJuZ54g/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=3ODdtJuZ54g",
+          "position": 18
+        },
+        {
+          "id": "jKk5WWKNNGI",
+          "title": "Hadees 63 to 67 Riyad Us Saliheen",
+          "duration": 4127,
+          "durationLabel": "1:08:47",
+          "thumbnail": "https://i.ytimg.com/vi/jKk5WWKNNGI/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jKk5WWKNNGI",
+          "position": 19
+        },
+        {
+          "id": "cA-4yUpwNWU",
+          "title": "Hadees 68 to 71 Riyad Us Saliheen",
+          "duration": 4712,
+          "durationLabel": "1:18:32",
+          "thumbnail": "https://i.ytimg.com/vi/cA-4yUpwNWU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cA-4yUpwNWU",
+          "position": 20
+        },
+        {
+          "id": "J7BZWXmtFh0",
+          "title": "Hadees 72 to 73 Riyad us Saliheen",
+          "duration": 3701,
+          "durationLabel": "1:01:41",
+          "thumbnail": "https://i.ytimg.com/vi/J7BZWXmtFh0/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=J7BZWXmtFh0",
+          "position": 21
+        },
+        {
+          "id": "gmwcte4_po8",
+          "title": "Hadees 74 to 76 Riyad Us Saliheen",
+          "duration": 3892,
+          "durationLabel": "1:04:52",
+          "thumbnail": "https://i.ytimg.com/vi/gmwcte4_po8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=gmwcte4_po8",
+          "position": 22
+        },
+        {
+          "id": "d8h7kws8GV0",
+          "title": "Hadees 77 to 78 Riyad Us Saliheen",
+          "duration": 1381,
+          "durationLabel": "23:01",
+          "thumbnail": "https://i.ytimg.com/vi/d8h7kws8GV0/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=d8h7kws8GV0",
+          "position": 23
+        },
+        {
+          "id": "w31_8osWfi4",
+          "title": "Hadees 79 to 81 Riyad Us Saliheen",
+          "duration": 3524,
+          "durationLabel": "58:44",
+          "thumbnail": "https://i.ytimg.com/vi/w31_8osWfi4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=w31_8osWfi4",
+          "position": 24
+        },
+        {
+          "id": "zXxQxrFLsAk",
+          "title": "Hadees 82 to 86 Riyad Us Saliheen",
+          "duration": 3997,
+          "durationLabel": "1:06:37",
+          "thumbnail": "https://i.ytimg.com/vi/zXxQxrFLsAk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=zXxQxrFLsAk",
+          "position": 25
+        },
+        {
+          "id": "QKpNGLBx2lc",
+          "title": "Baab fit Tafakkar Riyad Us Saliheen",
+          "duration": 3430,
+          "durationLabel": "57:10",
+          "thumbnail": "https://i.ytimg.com/vi/QKpNGLBx2lc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QKpNGLBx2lc",
+          "position": 26
+        },
+        {
+          "id": "oXxDREMdpxk",
+          "title": "Hadees 87 to 90 Riyad Us Saliheen",
+          "duration": 3916,
+          "durationLabel": "1:05:16",
+          "thumbnail": "https://i.ytimg.com/vi/oXxDREMdpxk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=oXxDREMdpxk",
+          "position": 27
+        },
+        {
+          "id": "8tekbnbQu2I",
+          "title": "Hadees 91 to 93 Riyad Us Saliheen",
+          "duration": 3077,
+          "durationLabel": "51:17",
+          "thumbnail": "https://i.ytimg.com/vi/8tekbnbQu2I/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=8tekbnbQu2I",
+          "position": 28
+        },
+        {
+          "id": "2M_qJIRlTGc",
+          "title": "Hadith 94 Riyad Us-Salihin",
+          "duration": 3267,
+          "durationLabel": "54:27",
+          "thumbnail": "https://i.ytimg.com/vi/2M_qJIRlTGc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=2M_qJIRlTGc",
+          "position": 29
+        },
+        {
+          "id": "_i0BdtoR3lE",
+          "title": "Hadees 95-98 Riyad Us Saliheen",
+          "duration": 3386,
+          "durationLabel": "56:26",
+          "thumbnail": "https://i.ytimg.com/vi/_i0BdtoR3lE/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=_i0BdtoR3lE",
+          "position": 30
+        },
+        {
+          "id": "wZUfjKDEIkY",
+          "title": "Hadees 99-104 Riyad Us Saliheen",
+          "duration": 3303,
+          "durationLabel": "55:03",
+          "thumbnail": "https://i.ytimg.com/vi/wZUfjKDEIkY/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=wZUfjKDEIkY",
+          "position": 31
+        },
+        {
+          "id": "lEfE6H-B9gk",
+          "title": "Hadees 105-110 Riyad Us Saliheen",
+          "duration": 3654,
+          "durationLabel": "1:00:54",
+          "thumbnail": "https://i.ytimg.com/vi/lEfE6H-B9gk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=lEfE6H-B9gk",
+          "position": 32
+        },
+        {
+          "id": "6aChWSjmRQM",
+          "title": "Hadees 111-113 Riyad Us Saliheen",
+          "duration": 3914,
+          "durationLabel": "1:05:14",
+          "thumbnail": "https://i.ytimg.com/vi/6aChWSjmRQM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=6aChWSjmRQM",
+          "position": 33
+        },
+        {
+          "id": "L9KCHWSnQHQ",
+          "title": "Hadees 114-118 Riyad Us Saliheen",
+          "duration": 4197,
+          "durationLabel": "1:09:57",
+          "thumbnail": "https://i.ytimg.com/vi/L9KCHWSnQHQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=L9KCHWSnQHQ",
+          "position": 34
+        },
+        {
+          "id": "0WKcxHoe3hc",
+          "title": "Hadees 119-125 Riyad Us Saliheen",
+          "duration": 3778,
+          "durationLabel": "1:02:58",
+          "thumbnail": "https://i.ytimg.com/vi/0WKcxHoe3hc/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0WKcxHoe3hc",
+          "position": 35
+        },
+        {
+          "id": "eGqc_0pSK68",
+          "title": "Hadith 126-130 Riyad Us-Saliheen",
+          "duration": 4276,
+          "durationLabel": "1:11:16",
+          "thumbnail": "https://i.ytimg.com/vi/eGqc_0pSK68/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=eGqc_0pSK68",
+          "position": 36
+        },
+        {
+          "id": "TABUHpZ4HjU",
+          "title": "Hadees 131 to 137 Riyad Us Saliheen",
+          "duration": 3664,
+          "durationLabel": "1:01:04",
+          "thumbnail": "https://i.ytimg.com/vi/TABUHpZ4HjU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=TABUHpZ4HjU",
+          "position": 37
+        },
+        {
+          "id": "cNl79ELAl7o",
+          "title": "Hadees 138 to 143 Riyad us Saliheen",
+          "duration": 3678,
+          "durationLabel": "1:01:18",
+          "thumbnail": "https://i.ytimg.com/vi/cNl79ELAl7o/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cNl79ELAl7o",
+          "position": 38
+        },
+        {
+          "id": "e1urZuzB27E",
+          "title": "Hadees 144 to 149 Riyad Us Saliheen",
+          "duration": 3236,
+          "durationLabel": "53:56",
+          "thumbnail": "https://i.ytimg.com/vi/e1urZuzB27E/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=e1urZuzB27E",
+          "position": 39
+        },
+        {
+          "id": "-tX9-ArXVDE",
+          "title": "Hadees 150 to 152 Riyad Us Saliheen",
+          "duration": 3889,
+          "durationLabel": "1:04:49",
+          "thumbnail": "https://i.ytimg.com/vi/-tX9-ArXVDE/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=-tX9-ArXVDE",
+          "position": 40
+        },
+        {
+          "id": "jUGhoObJCtM",
+          "title": "Hadees 153 to 155 (Riyad us Saliheen)",
+          "duration": 3502,
+          "durationLabel": "58:22",
+          "thumbnail": "https://i.ytimg.com/vi/jUGhoObJCtM/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=jUGhoObJCtM",
+          "position": 41
+        },
+        {
+          "id": "NeUzWq-oSao",
+          "title": "Hadith 157 to 160 (Riyad as-Salihin)",
+          "duration": 3177,
+          "durationLabel": "52:57",
+          "thumbnail": "https://i.ytimg.com/vi/NeUzWq-oSao/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=NeUzWq-oSao",
+          "position": 42
+        },
+        {
+          "id": "sprrD-nV2IQ",
+          "title": "Hadith 161 to 165 (Riyaad us-Saliheen)",
+          "duration": 2984,
+          "durationLabel": "49:44",
+          "thumbnail": "https://i.ytimg.com/vi/sprrD-nV2IQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=sprrD-nV2IQ",
+          "position": 43
+        },
+        {
+          "id": "Ce4XLwrmEXk",
+          "title": "Hadith 166 to 168 (Riyad as-Salihin)",
+          "duration": 3375,
+          "durationLabel": "56:15",
+          "thumbnail": "https://i.ytimg.com/vi/Ce4XLwrmEXk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ce4XLwrmEXk",
+          "position": 44
+        }
+      ]
+    },
+    {
+      "id": "positive-parenting",
+      "title": "Positive Parenting in Islam",
+      "role": "secondary",
+      "playlistId": "PLieY2yLTSro8sUqw8tfEeEqojjfu_A1oB",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLieY2yLTSro8sUqw8tfEeEqojjfu_A1oB",
+      "description": "🌙 Positive Parenting in Islam | Raising Righteous & Confident Children\n\nWelcome to our Positive Parenting in Islam series — a journey for Muslim parents who want to raise children with love, mercy, wisdom, and strong Islamic values. Inspired by the teachings of the Qur’an and the Sunnah, this series explores practical parenting guidance for today’s families while nurturing emotionally healthy and spiritually connected children.\n\nIn this playlist, you’ll discover:\n✨ Islamic parenting tips\n✨ Building strong parent-child relationships\n✨ Gentle discipline in Islam\n✨ Teaching adab, akhlaq, and deen\n✨ Emotional intelligence for Muslim families\n✨ Raising confident Muslim children\n✨ Parenting challenges in the modern world\n✨ Sunnah-based communication and connection\n\nWhether you are a new parent, expecting a child, or raising teenagers, these videos aim to help you create a peaceful Islamic home filled with compassion, respect, and barakah.",
+      "videoCount": 18,
+      "videos": [
+        {
+          "id": "R5CkaVEqOow",
+          "title": "Episode 1: Real Purpose of Parenting Part 1 → Positive Parenting",
+          "duration": 3787,
+          "durationLabel": "1:03:07",
+          "thumbnail": "https://i.ytimg.com/vi/R5CkaVEqOow/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=R5CkaVEqOow",
+          "position": 1
+        },
+        {
+          "id": "Ib4_9Q2s-0Q",
+          "title": "Episode 2: Real Purpose of Parenting  Part 2→ Positive Parenting",
+          "duration": 4302,
+          "durationLabel": "1:11:42",
+          "thumbnail": "https://i.ytimg.com/vi/Ib4_9Q2s-0Q/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Ib4_9Q2s-0Q",
+          "position": 2
+        },
+        {
+          "id": "Kw3qKo6EU24",
+          "title": "Episode 3:  Basic Principles of Tarbiyah Part 1→ Positive Parenting",
+          "duration": 4601,
+          "durationLabel": "1:16:41",
+          "thumbnail": "https://i.ytimg.com/vi/Kw3qKo6EU24/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Kw3qKo6EU24",
+          "position": 3
+        },
+        {
+          "id": "ZEoy6WOGu_M",
+          "title": "Episode 4: Basic Principles of Tarbiyah Part 2→ Positive Parenting",
+          "duration": 3890,
+          "durationLabel": "1:04:50",
+          "thumbnail": "https://i.ytimg.com/vi/ZEoy6WOGu_M/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ZEoy6WOGu_M",
+          "position": 4
+        },
+        {
+          "id": "ybktdCXD85Y",
+          "title": "Episode 5: Psychological Tarbiyah Part 1 → Positive Parenting",
+          "duration": 4252,
+          "durationLabel": "1:10:52",
+          "thumbnail": "https://i.ytimg.com/vi/ybktdCXD85Y/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=ybktdCXD85Y",
+          "position": 5
+        },
+        {
+          "id": "Jwl3_Ux6Nao",
+          "title": "Episode 6: Psychological Tarbiyah Part 2 → Positive Parenting",
+          "duration": 5358,
+          "durationLabel": "1:29:18",
+          "thumbnail": "https://i.ytimg.com/vi/Jwl3_Ux6Nao/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Jwl3_Ux6Nao",
+          "position": 6
+        },
+        {
+          "id": "rSJeKpXKS04",
+          "title": "Episode 7: Aimani Tarbiyah Part 1→ Positive Parenting",
+          "duration": 4372,
+          "durationLabel": "1:12:52",
+          "thumbnail": "https://i.ytimg.com/vi/rSJeKpXKS04/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rSJeKpXKS04",
+          "position": 7
+        },
+        {
+          "id": "rt5pffZhBIo",
+          "title": "Episode 8: Aimani Tarbiyah Part 2  → Positive Parenting",
+          "duration": 3941,
+          "durationLabel": "1:05:41",
+          "thumbnail": "https://i.ytimg.com/vi/rt5pffZhBIo/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=rt5pffZhBIo",
+          "position": 8
+        },
+        {
+          "id": "pv3h2gqSMQg",
+          "title": "Episode 9: Aimani Tarbiyah Part 3  → Positive Parenting",
+          "duration": 3453,
+          "durationLabel": "57:33",
+          "thumbnail": "https://i.ytimg.com/vi/pv3h2gqSMQg/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pv3h2gqSMQg",
+          "position": 9
+        },
+        {
+          "id": "0z_3Uyng_60",
+          "title": "Episode 10: Ikhlaqi Tarbiyah Part 1  → Positive Parenting",
+          "duration": 4799,
+          "durationLabel": "1:19:59",
+          "thumbnail": "https://i.ytimg.com/vi/0z_3Uyng_60/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=0z_3Uyng_60",
+          "position": 10
+        },
+        {
+          "id": "9ukBn7XkuTw",
+          "title": "Episode 11: Ikhlaqi Tarbiyah Part 2 → Positive Parenting",
+          "duration": 3926,
+          "durationLabel": "1:05:26",
+          "thumbnail": "https://i.ytimg.com/vi/9ukBn7XkuTw/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=9ukBn7XkuTw",
+          "position": 11
+        },
+        {
+          "id": "OICYWwrcA-Y",
+          "title": "Episode 12: Educational Upbringing Part 1 → Positive Parenting",
+          "duration": 3143,
+          "durationLabel": "52:23",
+          "thumbnail": "https://i.ytimg.com/vi/OICYWwrcA-Y/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OICYWwrcA-Y",
+          "position": 12
+        },
+        {
+          "id": "OPrl2MKCK_g",
+          "title": "Episode 13: Positive Parenting (Taleemi Tarbiyah)",
+          "duration": 4481,
+          "durationLabel": "1:14:41",
+          "thumbnail": "https://i.ytimg.com/vi/OPrl2MKCK_g/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=OPrl2MKCK_g",
+          "position": 13
+        },
+        {
+          "id": "_jNHWc8YL3E",
+          "title": "Episode 14: Jinsi Tarbiyah Part 1  → Positive Parenting",
+          "duration": 3808,
+          "durationLabel": "1:03:28",
+          "thumbnail": "https://i.ytimg.com/vi/_jNHWc8YL3E/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=_jNHWc8YL3E",
+          "position": 14
+        },
+        {
+          "id": "24O3yqyRnXU",
+          "title": "Episode 15: Jinsi Tarbiyah Part 2 → Positive Parenting",
+          "duration": 3614,
+          "durationLabel": "1:00:14",
+          "thumbnail": "https://i.ytimg.com/vi/24O3yqyRnXU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=24O3yqyRnXU",
+          "position": 15
+        },
+        {
+          "id": "k-kkOojwTOs",
+          "title": "Episode 16: Jismani Tarbiyah Part 1  → Positive Parenting",
+          "duration": 936,
+          "durationLabel": "15:36",
+          "thumbnail": "https://i.ytimg.com/vi/k-kkOojwTOs/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=k-kkOojwTOs",
+          "position": 16
+        },
+        {
+          "id": "a3XOD0f1UF0",
+          "title": "Episode 17: Jismani Tarbiyah Part 2 → Positive Parenting",
+          "duration": 4632,
+          "durationLabel": "1:17:12",
+          "thumbnail": "https://i.ytimg.com/vi/a3XOD0f1UF0/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=a3XOD0f1UF0",
+          "position": 17
+        },
+        {
+          "id": "tKGFCrhIUN8",
+          "title": "Episode 18: Importance of discipline → Positive Parenting",
+          "duration": 4732,
+          "durationLabel": "1:18:52",
+          "thumbnail": "https://i.ytimg.com/vi/tKGFCrhIUN8/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=tKGFCrhIUN8",
+          "position": 18
+        }
+      ]
+    },
+    {
+      "id": "surah-al-kahf",
+      "title": "Surah Al-Kahf",
+      "role": "secondary",
+      "playlistId": "PLieY2yLTSro9Vvq6dUfiLGqQ0n1GKQqIV",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLieY2yLTSro9Vvq6dUfiLGqQ0n1GKQqIV",
+      "description": "Welcome to our Surah Al-Kahf playlist — a journey of guidance, protection, sabr, yaqeen, and reflection through one of the most powerful Surahs of the Quran.\n\nIn this series, we explore the beautiful lessons of Surah Al-Kahf with simple explanations, deep reflections, and practical reminders for daily life. From the story of the People of the Cave to the lessons of Musa (AS), Khidr, Dhul-Qarnayn, and the reality of Dajjal fitnah — every episode is designed to strengthen our connection with the Quran.\n\n✨ Topics Covered:\n• Tafseer & Reflection of Surah Al-Kahf\n• Lessons for Modern Life\n• Protection from Fitnah\n• Quranic Wisdom & Guidance\n• Relationship between Surahs of the Quran\n• Faith, Patience & Trust in Allah\n• Importance of Good Company\n• Reality of Dunya & Akhirah\n\n📖 “Whoever recites Surah Al-Kahf on Friday will have a light between this Friday and the next.”\n\nMay Allah make the Quran the light of our hearts and a source of guidance for all of us. Ameen.",
+      "videoCount": 8,
+      "videos": [
+        {
+          "id": "KbqNyMhCHCE",
+          "title": "Surah AlKahf (Part 1) Verse 1 to 5",
+          "duration": 4904,
+          "durationLabel": "1:21:44",
+          "thumbnail": "https://i.ytimg.com/vi/KbqNyMhCHCE/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=KbqNyMhCHCE",
+          "position": 1
+        },
+        {
+          "id": "H924lTKvGVk",
+          "title": "Surah AlKahf (Part 2) Verse 6 to 14",
+          "duration": 4521,
+          "durationLabel": "1:15:21",
+          "thumbnail": "https://i.ytimg.com/vi/H924lTKvGVk/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=H924lTKvGVk",
+          "position": 2
+        },
+        {
+          "id": "btNLNofT-nY",
+          "title": "Surah AlKahf (Part 3) Verse 15 to 26",
+          "duration": 4512,
+          "durationLabel": "1:15:12",
+          "thumbnail": "https://i.ytimg.com/vi/btNLNofT-nY/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=btNLNofT-nY",
+          "position": 3
+        },
+        {
+          "id": "QBImbi3v-7g",
+          "title": "Surah AlKahf (Part 4) Verse 27 to 35",
+          "duration": 4605,
+          "durationLabel": "1:16:45",
+          "thumbnail": "https://i.ytimg.com/vi/QBImbi3v-7g/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=QBImbi3v-7g",
+          "position": 4
+        },
+        {
+          "id": "DbzgIZJYeHY",
+          "title": "Surah AlKahf (Part 5) Verse 36 to 45",
+          "duration": 4644,
+          "durationLabel": "1:17:24",
+          "thumbnail": "https://i.ytimg.com/vi/DbzgIZJYeHY/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=DbzgIZJYeHY",
+          "position": 5
+        },
+        {
+          "id": "z3wlHXyp-uU",
+          "title": "Surah AlKahf (Part 6) Verse 45 to 49",
+          "duration": 4414,
+          "durationLabel": "1:13:34",
+          "thumbnail": "https://i.ytimg.com/vi/z3wlHXyp-uU/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=z3wlHXyp-uU",
+          "position": 6
+        },
+        {
+          "id": "IrPu49ZVd4k",
+          "title": "Surah AlKahf (Part 7) Verse 50 to 57",
+          "duration": 4846,
+          "durationLabel": "1:20:46",
+          "thumbnail": "https://i.ytimg.com/vi/IrPu49ZVd4k/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=IrPu49ZVd4k",
+          "position": 7
+        },
+        {
+          "id": "CnZMrDYQVKQ",
+          "title": "Surah AlKahf (Part 8) Verse 58 to 79",
+          "duration": 4478,
+          "durationLabel": "1:14:38",
+          "thumbnail": "https://i.ytimg.com/vi/CnZMrDYQVKQ/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=CnZMrDYQVKQ",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "id": "youm-e-arafah",
+      "title": "Youm-e-Arafah",
+      "role": "secondary",
+      "playlistId": "PLieY2yLTSro_QSxMdRyyPLPn-JPv0jG-T",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PLieY2yLTSro_QSxMdRyyPLPn-JPv0jG-T",
+      "description": "Bayanaat in Urdu",
+      "videoCount": 1,
+      "videos": [
+        {
+          "id": "Jqqgu3jY2s4",
+          "title": "Hajj k din aur humari zindagi ma kia munasibat ha?",
+          "duration": 2462,
+          "durationLabel": "41:02",
+          "thumbnail": "https://i.ytimg.com/vi/Jqqgu3jY2s4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=Jqqgu3jY2s4",
+          "position": 1
+        }
+      ]
+    }
+  ]
+}
