@@ -595,6 +595,13 @@ button {
   margin-top: 0.3rem;
 }
 
+.about-dua {
+  font-family: "Cormorant Garamond", "Amiri", serif;
+  font-size: 1.25rem;
+  font-style: italic;
+  color: var(--green-deep);
+}
+
 /* Footer */
 .site-footer {
   background: var(--green-deep);
